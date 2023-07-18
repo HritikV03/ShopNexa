@@ -1,7 +1,6 @@
 {
   "name": "shopnexa",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +13,14 @@
     "react-bootstrap": "^2.7.4",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HritikV03/ShopNexa.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HritikV03/ShopNexa/issues"
+  },
+  "homepage": "https://github.com/HritikV03/ShopNexa#readme",
+  "description": ""
 }
